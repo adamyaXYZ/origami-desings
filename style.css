@@ -1,0 +1,41 @@
+html{
+    font-family: cursive ;
+    font-style:initial;
+}
+header{
+    background-image: url(https://th.bing.com/th/id/OIP.9KmHyplG4P6C9ZzIhamSvgHaEo?w=250&h=180&c=7&o=5&dpr=1.25&pid=1.7);
+    color: ivory;
+    
+    
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    /*justify-content: space-between;*/
+}
+.camel{
+    background-color: khaki;
+    width: 30%;
+}
+.chamelion{
+    background: linear-gradient(124deg, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3)
+}
+.piegon{
+    background-color:darkcyan;
+    width: 30%;
+}
+.teddyBear{
+    background-color: burlywood;
+    width: 30%;
+}
+.panda{
+    background-color:gray ;
+    width: 30%;
+}
+.cicada{
+    background-color: saddlebrown;
+    width: 30%;
+}
+footer{
+    bottom:auto;
+}
